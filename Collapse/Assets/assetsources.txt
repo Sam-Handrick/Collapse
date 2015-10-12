@@ -1,0 +1,6 @@
+visual assets: DemoBlock sprite--- done by me
+	       GameBoarder sprite--- done by me
+
+fonts: 	       Caviar Dreams--- Obtained from http://www.fontsquirrel.com/fonts/caviar-dreams
+
+sounds:        202230_deraj_pop-sound --- Obtained from https://www.freesound.org/people/deraj/sounds/202230/
